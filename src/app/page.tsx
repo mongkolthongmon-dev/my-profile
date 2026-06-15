@@ -27,7 +27,7 @@ export default function Home() {
           <li> 📍  Location: Bangkok, Thailand</li>
           <li>📧 Email: mthongmo@cpaxtra.co.th</li>
           <li>🎓 Education: Khon Kaen University</li>
-          <li>💼 Skills: HTML, CSS, JavaScript, React, Mendix, Java, SQL, Python</li>
+          <li>💼 Skills: HTML, CSS, JavaScript, TypeScript, Mendix, Java, SQL, Python</li>
         </ul>
 
         {/* Links */}
