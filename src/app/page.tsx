@@ -6,7 +6,7 @@ export default function Home() {
       <section className="max-w-md w-full bg-white rounded-2xl shadow-lg p-8 text-center">
         {/* Profile picture */}
         <img
-          src="/profile.jpg"
+          src="/profile.JPG"
           alt="Profile photo"
           className="w-32 h-32 rounded-full mx-auto object-cover border-4 border-gray-100"
         />
